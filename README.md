@@ -1,5 +1,5 @@
 # Repo Overview
-This repository is the home of a set of bash scripts that enable and configure an enhanced session mode on Linux VM -- especially for Kali Linux -- for Hyper-V.
+This repository is the home of a set of bash scripts that enable and configure an enhanced session mode on Linux VM -- Debian, Ubuntu and Kali Linux -- for Hyper-V.
 
 # For Kali-Linux Users.
 This project's code has merged to https://gitlab.com/kalilinux/packages/kali-tweaks/-/blob/kali/master/helpers/hyperv-enhanced-mode <br />
@@ -8,7 +8,7 @@ So, please use "kali-tweaks" command instead of it.
 how to use:
 https://www.kali.org/docs/virtualization/install-hyper-v-guest-enhanced-session-mode/
 
-# Debian Testing
+# For Debian User
 
-For Debian Testing user, just use Kali 2021.x, the script can work.
+Currently, I have used the script in Debian Booksworm to let hyper-v support enhance session in Debian. Did not test on Older version. The script is modify from Kali-Linux.
 
