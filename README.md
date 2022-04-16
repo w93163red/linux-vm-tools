@@ -7,3 +7,8 @@ So, please use "kali-tweaks" command instead of it.
 
 how to use:
 https://www.kali.org/docs/virtualization/install-hyper-v-guest-enhanced-session-mode/
+
+# Debian Testing
+
+For Debian Testing user, just use Kali 2021.x, the script can work.
+
